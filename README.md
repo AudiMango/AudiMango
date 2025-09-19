@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AudiMango
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Vision and Object Tracking stuff for FRC
-- 📫 How to reach me idk figure it out
+- I love frc and work on the mechanical side of things
+- 📫 Email: meduri.adityas@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
